@@ -1,0 +1,38 @@
+A study of the incidence of kidney cancer in the 3,141 counties of the
+United States reveals a remarkable pattern. The counties in which
+the incidence of kidney cancer is lowest are mostly rural, sparsely
+populated, and located in traditionally Republican states in the Midwest,
+the South, and the West. What do you make of this?
+    Your mind has been very active in the last few seconds, and it was
+mainly a System 2 operation. You deliberately searched memory and
+formulated hypotheses. Some effort was involved; your pupils dilated, and
+your heart rate increased measurably. But System 1 was not idle: the
+operation of System 2 depended on the facts and suggestions retrieved
+from associative memory. You probably rejected the idea that Republican
+politics provide protection against kidney cancer. Very likely, you ended up
+focusing on the fact that the counties with low incidence of cancer are
+mostly rural. The witty statisticians Howard Wainer and Harris Zwerling,
+from whom I learned this example, commented, “It is both easy and
+tempting to infer that their low cancer rates are directly due to the clean
+living of the rural lifestyle—no air pollution, no water pollution, access to
+fresh food without additives.” This makes perfect sense.
+    Now consider the counties in which the incidence of kidney cancer is
+highest. These ailing counties tend to be mostly rural, sparsely populated,
+and located in traditionally Republican states in the Midwest, the South,
+and the West. Tongue-in-cheek, Wainer and Zwerling comment: “It is easy
+to infer that their high cancer rates might be directly due to the poverty of
+the rural lifestyle—no access to good medical care, a high-fat diet, and too
+much alcohol, too much tobacco.” Something is wrong, of course. The rural
+lifestyle cannot explain both very high and very low incidence of kidney
+cancer.
+    The key factor is not that the counties were rural or predominantly
+Republican. It is that rural counties have small populations. And the main
+lesson to be learned is not about epidemiology, it is about the difficult
+relationship between our mind and statistics. System 1 is highly adept in
+one form of thinking—it automatically and effortlessly identifies causal
+connections between events, sometimes even when the connection is
+spurious. When told about the high-incidence counties, you immediately
+assumed that these counties are different from other counties for a reason,
+that there must be a cause that explains this difference. As we shall see,
+however, System 1 is inept when faced with “merely statistical” facts, which
+change the probability of outcomes but do not cause them to happen
